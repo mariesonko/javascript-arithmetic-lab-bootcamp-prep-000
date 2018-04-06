@@ -4,4 +4,3 @@ function add(a,b){
 function subtracts(a,b){
   return (b-a)
 }
-
