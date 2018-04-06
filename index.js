@@ -23,5 +23,5 @@ function preserveDecimal(n){
   return (parseFloat(n))
 }
 function makeInt(n,base){
-  return (parseInt(n)* 100)
+  return (parseInt(n,base))
 }
