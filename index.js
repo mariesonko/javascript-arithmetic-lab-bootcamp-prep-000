@@ -19,6 +19,6 @@ function dec(n){
 function makeInt(n){
   return (parseInt(n))
 }
-function maInt(n,10){
+function makeInt(n,10){
   return (parseInt(n))
 }
