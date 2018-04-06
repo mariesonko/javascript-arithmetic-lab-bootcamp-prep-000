@@ -22,3 +22,6 @@ function makeInt(n){
 function preserveDecimal(n){
   return (parseFloat(n))
 }
+function makeInt(n,base){
+  return (ParseInt(n))
+}
